@@ -10,3 +10,8 @@
 .my-col {
   border: 3px dotted blue;
 }
+
+.main-form {
+  width: 500px;
+  margin: 0 auto;
+}
